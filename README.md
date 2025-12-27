@@ -70,13 +70,8 @@ int main()
     return 0;
 }
 # Output:
-Enter two integers: 10 20
+<img width="501" height="428" alt="image" src="https://github.com/user-attachments/assets/ad7d7cc9-5b34-4a6d-a466-e876f225d1ee" />
 
-Before swap: x = 10, y = 20
-Inside swapByValue: a = 20, b = 10
-After swapByValue: x = 10, y = 20
-Inside swapByReference: a = 20, b = 10
-After swapByReference: x = 20, y = 10
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -150,9 +145,8 @@ int main()
 }
 
 # Output:
-Enter the number of terms (positive integer): 8
-First 8 terms of Fibonacci series:
-0 1 1 2 3 5 8 13 
+<img width="561" height="241" alt="image" src="https://github.com/user-attachments/assets/a46142f7-8512-4af5-b0df-53b3ac8eb5c4" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -231,10 +225,8 @@ int main()
     return 0;
 }
 # Output:
-Enter the lower limit: 2
-Enter the upper limit: 10
-Sequence from 2 to 10:
-2 4 6 8 10 
+<img width="390" height="326" alt="image" src="https://github.com/user-attachments/assets/db8563b5-5ca9-41c7-aaaf-0afdb2506e24" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -306,10 +298,8 @@ int main()
 }
 
 # Output:
-Enter the number of integers: 5
-Enter 5 integers:
-2 4 6 8 10
-Sum of the entered integers = 30
+<img width="427" height="317" alt="image" src="https://github.com/user-attachments/assets/edb8e768-519f-455a-ad1b-6e7b55996583" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -376,10 +366,7 @@ int main()
 }
 
 # Output:
-Enter the number of elements: 5
-Enter 5 integers:
-10 20 30 40 50
-Array elements are:
-10 20 30 40 50 
+<img width="421" height="343" alt="image" src="https://github.com/user-attachments/assets/e9eefa1c-a39d-4325-a4ac-574df0789f65" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
